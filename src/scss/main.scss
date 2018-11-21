@@ -1,0 +1,13 @@
+@import '_colors';
+
+
+div {
+  background: $color1;
+  color: $color2;
+  border: 5px solid $color3;
+  border-radius: 5px;
+}
+
+a {
+  color: $color4;
+}
